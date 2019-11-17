@@ -1,6 +1,14 @@
+https://github.com/ZachArani/cs3203-midterm
 # Midterm Discussion
+![overview](overview.png)
 ## Overview
 For my Yo application feature addition I created YoPay: a system for users to send money to each other quickly via their own payment methods (credit/debit card in this case). Users can add several cards to their Yo account and use them to either send or receive money quickly from and to other Yo users. 
+
+
+![entry from menu](Yo1.png)
+![general menu](Yo2.png)
+![card entry](Yo3.png)
+
 ## Ethical Issues
 1) Avoiding Harm
 	Obviously the first important ethical quandary is that of harm. Since we will be acting as the middle man in monetary transactions, we will have to work to the best of our ability to ensure that Yo is not being used in ways that are illegal or unethical (prostitution, human trafficking, drug trafficking, etc.). Any violations we discover will be reported to the appropriate authorities and the accounts will be removed accordingly.
